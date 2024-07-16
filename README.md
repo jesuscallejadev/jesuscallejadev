@@ -1,5 +1,5 @@
 ### Hi, how are you? 👋
-😎 I am Software Engineer with passion for Mobile Apps
+😎 Hey, I am Software Engineer passionate about iOS and Android app development, with extensive experience in the native app ecosystem.
 
 
 ## 🌐 Socials:
